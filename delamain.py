@@ -1,3 +1,4 @@
+# Ini edit dari GitHub langsung
 def tambah(a, b):
     return a + b
 
